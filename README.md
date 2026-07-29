@@ -28,7 +28,7 @@ Node provisioning is out of scope — bring your own VMs, whether from Terraform
 ## Install
 
 ```bash
-curl -fsSLO https://raw.githubusercontent.com/<you>/talos-sh/main/talos.sh && chmod +x talos.sh
+curl -fsSLO https://raw.githubusercontent.com/dato-dev/talos-sh/main/talos.sh && chmod +x talos.sh
 ```
 
 ## Usage
